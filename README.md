@@ -1,7 +1,9 @@
 # Vise Assembly
 
-![assembly](media/vise_assy1.png)
-![assembly](media/vise_assy.png)
+<div style="display: flex; justify-content: space-around;">
+  <img src="./media/vise_assy1.png" alt="Vise Assembly 1" width="300">
+  <img src="./media/vise_assy.png" alt="Vise Assembly 2" width="300">
+</div>
 
 ## Overview
 
@@ -11,7 +13,9 @@ This repository showcases a vise assembly designed in **SolidWorks** to demonstr
 
 The two videos show the exploded view of the vise and its animation.
 
-[Click here to watch the Vise Exploded View and Animation videos](https://desireloft.github.io/vise/vise.html)
+[Click here to watch the Vise Animation video](https://desireloft.github.io/vise/vise_a.html)
+
+[Click here to watch the Vise Exploded View video](https://desireloft.github.io/vise/vise_e.html)
 
 ## Project Details
 
