@@ -1,8 +1,17 @@
 # Vise Assembly
 
+![assembly](media/vise_assy1.png)
+![assembly](media/vise_assy.png)
+
 ## Overview
 
 This repository showcases a vise assembly designed in **SolidWorks** to demonstrate my skills in CAD modeling, assembly design, and technical documentation. The project includes a complete vise assembly, individual part models, technical drawings, and STEP files for interoperability. The design is optimized for manufacturing and prototyping, highlighting my ability to create functional mechanical assemblies for industrial applications.
+
+## Demo Video
+
+The two videos show the exploded view of the vise and its animation.
+
+[Click here to watch the Vise Exploded View and Animation videos](https://desireloft.github.io/vise/vise.html)
 
 ## Project Details
 
